@@ -1,0 +1,9 @@
+{
+    "mongo": {
+        "host": "localhost",
+        "port": 27017,
+        "username": "soydata",
+        "password": "youshallnotpass",
+        "db": "soydata"
+    }
+}
